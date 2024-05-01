@@ -1,13 +1,5 @@
 /10k
 /140k
-Xception/xception140k.ipynb
-Xception/xception10k.ipynb
-Xception/Xception 10k Model/Xception_10k/xception_10K_training_history.json
-Xception/Xception 10k Model/Xception_10k/Xception10KModel.keras
-Xception/Xception 10k Model/Xception_10k/true_labels.npy
-Xception/Xception 10k Model/Xception_10k/predictions.npy
-Xception/requirements.txt
-ViT/requirements.txt
 ViT/models/140k/training_args.bin
 ViT/models/140k/preprocessor_config.json
 ViT/models/140k/model.safetensors
@@ -16,5 +8,7 @@ ViT/models/10k/training_args.bin
 ViT/models/10k/preprocessor_config.json
 ViT/models/10k/model.safetensors
 ViT/models/10k/config.json
-ViT/140k_ViT.ipynb
-ViT/10k_ViT.ipynb
+Xception/Xception 10k Model/Xception_10k/predictions.npy
+Xception/Xception 10k Model/Xception_10k/true_labels.npy
+Xception/Xception 10k Model/Xception_10k/Xception10KModel.keras
+Xception/Xception 10k Model/Xception_10k/xception_10K_training_history.json
