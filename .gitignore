@@ -1,14 +1,4 @@
 /10k
 /140k
-ViT/models/140k/training_args.bin
-ViT/models/140k/preprocessor_config.json
-ViT/models/140k/model.safetensors
-ViT/models/140k/config.json
-ViT/models/10k/training_args.bin
-ViT/models/10k/preprocessor_config.json
-ViT/models/10k/model.safetensors
-ViT/models/10k/config.json
-Xception/Xception 10k Model/Xception_10k/predictions.npy
-Xception/Xception 10k Model/Xception_10k/true_labels.npy
-Xception/Xception 10k Model/Xception_10k/Xception10KModel.keras
-Xception/Xception 10k Model/Xception_10k/xception_10K_training_history.json
+/ViT/models/
+/Xception/Xception 10k Model

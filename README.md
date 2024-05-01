@@ -14,14 +14,14 @@ This repository includes all of our code for the final project in CS 7643 - Deep
 
 - images - folder containing generated analysis charts for the models
 - ViT - folder containing notebooks and files relating to the Visual Transformer Model
-  - models - folder containing the saved ViT models
+  - models - generated folder containing the saved ViT models
     - 10k - saved ViT model trained on smaller, 10k image dataset
     - 140k - saved ViT model trained on larger, 140k image dataset
   - 10k_ViT.ipynb - notebook for training, saving, and loading smaller ViT model
   - 140k_ViT.ipynb - notebook for training, saving, and loading larger ViT model
   - requirements.txt - requirements file to train and run ViT models
 - Xception - folder containing notebooks and files relating to the Xception Model
-  - Xception 10k Model - saved Xception model trained on smaller, 10k image dataset
+  - Xception 10k Model - generated folder for saved Xception model trained on smaller, 10k image dataset
     - predictions.npy - array of prediction classes for 10k test
     - true_labels.npy - array of ground truths for 10k test
   - xception10k.ipynb - notebook for training, saving, and loading smaller ViT model
