@@ -59,5 +59,3 @@ From here, make sure pip is installed using the following line, and afterwards i
 ```
 
 After that, you should be able to run the notebooks!
-
-> > > > > > > Stashed changes
