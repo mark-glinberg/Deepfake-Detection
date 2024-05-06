@@ -1,6 +1,8 @@
 # Deepfake-Detection
 
-CS 4644 / 7643 Deep Learning - Final Project - Mark Glinberg, Charles McCartney, Andrew Gao, Jerome Perera
+CS 4644 / 7643 Deep Learning - Final Project
+
+[Mark Glinberg](https://github.com/mark-glinberg), [Charles McCartney](https://github.com/CHMcCartney), [Andrew Gao](https://github.com/AndrewGao1), [Jerome Perera](https://github.com/jerome-perera)
 
 This repository includes a variety of deep learning approaches for identifying artificially generated media content, including images, videos, and audio recordings seeking to mitigate the consequences of the proliferation of deepfake content in online spaces.
 
@@ -29,6 +31,8 @@ This repository includes all of our code for the final project in CS 7643 - Deep
   - requirements.txt - requirements file to train and run Xception models
 - data_extraction.ipynb - notebook for initial data restructuring and manipulation
 - novel_video_audio.ipynb - notebook for the video and audio deepfake detection model
+- Project Guidelines.pdf - Guidelines set out for this project
+- Project Report.pdf - Report of our findings
 
 ### Datasets
 
